@@ -9,17 +9,15 @@
   font-family: 'Helvetica Neue', 'Arial', sans-serif;
 }
 
-.header { 
+.header {
 display:flex ;
 flex-direction: row;
 align-items: center;
 height: 100vh;
 min-height: 600px;
 max-height: 756px;
-background-color:#f2f2f2 ;
-position: relative;
-  /* выше установили ограничения для секции */
-}
+background-color:#f2f2f2;
+position: relative;}
 .logo{
 width:228px;
 height:32px; 
@@ -285,8 +283,8 @@ font-size: 18px;
 font-weight:normal; }
 .footer__social-icon{
 width: 16px;
-height: 16px; 
-border: 0; 
+height: 16px;
+border: 0;
 margin-right: 10px; }
 .border{ 
 border: 1px solid #ed6742;
