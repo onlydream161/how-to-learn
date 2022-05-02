@@ -249,15 +249,15 @@ margin: 60px auto 40px;
 width: 90%;}
 .footer__columns_content_copyright{
 flex-basis: 711px;
-margin: 0; 
+margin: 0;
 padding: 0;
 list-style-type: none;}
 .logo_place_footer{
-width: 228px; 
+width: 228px;
 height: 32px;}
 .footer__author{ 
 position: absolute;
-bottom: 18px; 
+bottom: 18px;
 left: o;
 margin-top: 18px;
 color: white;
@@ -277,7 +277,7 @@ padding: 0;
 margin: 0 0 16px;
 list-style-type: none;}
 .footer__column-link{ 
-color: white; 
+color: white;
 text-decoration: none;
 padding-top: 0;
 line-height:30px;
