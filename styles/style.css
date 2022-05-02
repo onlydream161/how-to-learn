@@ -20,8 +20,7 @@ background-color:#f2f2f2;
 position: relative;}
 .logo{
 width:228px;
-height:32px; 
-  ;}
+height:32px;}
 .logo__header_place{ 
 position: absolute;
 top: 30px;
@@ -54,7 +53,7 @@ font-size: 18px;
 font-weight:normal;
 }
 .header__subtitle_link{
-text-decoration: none
+text-decoration: none;
 }
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic{
@@ -99,7 +98,7 @@ margin-top: 0;
 margin-bottom: 30px;
 line-height:34px;
 font-size: 24px;
-font-weight:normal}
+font-weight:normal;}
 .description__paragraph:last-of-type{margin-bottom: 0;}
 .description__paragraph_bold{font-weight:bold;}
 .digits{margin-top: 100px;}
@@ -134,7 +133,7 @@ min-height: auto;
 margin-top: 60px;
 list-style-type: none;}
 .table__heading{
-margin: 0 auto ;
+margin: 0 auto;
 line-height:1.15;
 font-size: 24px;
 font-weight:bold}
@@ -207,7 +206,7 @@ text-align: center;
 width: 60%;
 margin: 20px auto 0;
 color: white;
-line-height:34px ;
+line-height:34px;
 font-size: 24px;
 font-weight:normal;
 z-index: 1;}
