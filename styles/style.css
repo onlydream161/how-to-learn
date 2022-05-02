@@ -21,8 +21,8 @@
   /* выше установили ограничения для секции */
 }
 .logo{
-  width: 228px; 
-  height: 32px; 
+  width:228px;
+   height:32px; 
   ;}
   .logo__header_place{ 
     position: absolute;
@@ -89,7 +89,7 @@ bottom: 30px;
   min-height: auto;
        }
   .description__brief {
-  width: 175px; 
+  width:175px;
   min-height: auto;
   line-height: 1.2;
   font-size: 18px;
