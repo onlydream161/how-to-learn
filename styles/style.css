@@ -166,7 +166,7 @@ z-index: 1;
 margin: 0;
 text-align: center;
 min-width: auto;
-min-height: auto; 
+min-height: auto;
 z-index: 1;
 line-height:51px;
 font-size: 36px;
@@ -184,8 +184,8 @@ font-weight:normal;
 }
 .feinman__img{
 width: 867px;
-height: 637px; 
-position: absolute; 
+height: 637px;
+position: absolute;
 left: 0;
 bottom: 0;
 z-index: 0;}
@@ -236,7 +236,7 @@ right: -210px;}
 .footer{
 display: flex;
 min-height: 350px;
-margin: 0 auto 0; 
+margin: 0 auto 0;
 background-color: #1f1f1f;
 padding-top: 90px;}
 .footer__columns{ 
