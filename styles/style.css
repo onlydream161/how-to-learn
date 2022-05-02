@@ -50,7 +50,7 @@ right: 0;
 z-index: 1; }
 
 .header__subtitle{
-position: absolute; 
+position: absolute;
 width: 388px;
 left: 64px;
 bottom: 30px;
@@ -82,7 +82,7 @@ bottom: 30px;
    min-height: auto;  }
   .description__two-columns{
   width:80%;
-  display:flex; 
+  display:flex;
   margin: auto;
   flex-direction: row;
   justify-content: space-between;
@@ -99,11 +99,11 @@ bottom: 30px;
   margin-bottom: 0;}
   .description__main-text{
     display: flex;
-     flex-direction: column 
-     ;justify-content: space-between;
-    width: 80%; 
+    flex-direction: column;
+    justify-content: space-between;
+    width: 80%;
     min-width: 784px;
-     margin-top: 0;}
+    margin-top: 0;}
     .description__paragraph{
       margin-top: 0;
        margin-bottom: 30px
